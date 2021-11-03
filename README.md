@@ -1,5 +1,4 @@
 # abeS
-# 
-# My REPO for Linux scripts
-# 
-# .sh
+
+ My GitHub REPO for Linux scripts
+ .sh
